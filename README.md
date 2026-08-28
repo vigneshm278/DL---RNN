@@ -49,9 +49,9 @@ Predict stock prices using the test data, convert the normalized values back to 
 
 ## PROGRAM
 
-### Name:
+### Name: Vignesh M
 
-### Register Number:
+### Register Number: 212223240176
 
 ```python
 import numpy as np
